@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week3.iml" filepath="$PROJECT_DIR$/.idea/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/count-appear/count-appear.iml" filepath="$PROJECT_DIR$/count-appear/count-appear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implement-queue-circular-linkedList/implement-queue-circular-linkedList.iml" filepath="$PROJECT_DIR$/implement-queue-circular-linkedList/implement-queue-circular-linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implement-queue-linkedList/implement-queue-linkedList.iml" filepath="$PROJECT_DIR$/implement-queue-linkedList/implement-queue-linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implement-stack-linkedList/implement-stack-linkedList.iml" filepath="$PROJECT_DIR$/implement-stack-linkedList/implement-stack-linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-stack/reverse-stack.iml" filepath="$PROJECT_DIR$/reverse-stack/reverse-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
