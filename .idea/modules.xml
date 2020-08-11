@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Week3.iml" filepath="$PROJECT_DIR$/.idea/Week3.iml" />
       <module fileurl="file://$PROJECT_DIR$/count-appear/count-appear.iml" filepath="$PROJECT_DIR$/count-appear/count-appear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decical-to-binary/decical-to-binary.iml" filepath="$PROJECT_DIR$/decical-to-binary/decical-to-binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement-queue-circular-linkedList/implement-queue-circular-linkedList.iml" filepath="$PROJECT_DIR$/implement-queue-circular-linkedList/implement-queue-circular-linkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement-queue-linkedList/implement-queue-linkedList.iml" filepath="$PROJECT_DIR$/implement-queue-linkedList/implement-queue-linkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement-stack-linkedList/implement-stack-linkedList.iml" filepath="$PROJECT_DIR$/implement-stack-linkedList/implement-stack-linkedList.iml" />
