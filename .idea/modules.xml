@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arraylist-Linkedlist-in-JavaCollectionFramework/Arraylist-Linkedlist-in-JavaCollectionFramework.iml" filepath="$PROJECT_DIR$/Arraylist-Linkedlist-in-JavaCollectionFramework/Arraylist-Linkedlist-in-JavaCollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap-LinkedHashMap-TreeMap/HashMap-LinkedHashMap-TreeMap.iml" filepath="$PROJECT_DIR$/HashMap-LinkedHashMap-TreeMap/HashMap-LinkedHashMap-TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap-vs-HashSet/HashMap-vs-HashSet.iml" filepath="$PROJECT_DIR$/HashMap-vs-HashSet/HashMap-vs-HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort-with-Comparable-and-Comparator/Sort-with-Comparable-and-Comparator.iml" filepath="$PROJECT_DIR$/Sort-with-Comparable-and-Comparator/Sort-with-Comparable-and-Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Week3.iml" filepath="$PROJECT_DIR$/.idea/Week3.iml" />
       <module fileurl="file://$PROJECT_DIR$/count-appear/count-appear.iml" filepath="$PROJECT_DIR$/count-appear/count-appear.iml" />
       <module fileurl="file://$PROJECT_DIR$/decical-to-binary/decical-to-binary.iml" filepath="$PROJECT_DIR$/decical-to-binary/decical-to-binary.iml" />
@@ -9,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/implement-queue-linkedList/implement-queue-linkedList.iml" filepath="$PROJECT_DIR$/implement-queue-linkedList/implement-queue-linkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement-stack-linkedList/implement-stack-linkedList.iml" filepath="$PROJECT_DIR$/implement-stack-linkedList/implement-stack-linkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse-stack/reverse-stack.iml" filepath="$PROJECT_DIR$/reverse-stack/reverse-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
