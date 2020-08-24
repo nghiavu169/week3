@@ -58,8 +58,7 @@ public class Employee implements Serializable {
         this.email_id = email_id;
     }
 
-    public String toString()
-    {
+    public String toString() {
         return "\nEmployee Details :" + "\nID: " + this.id + "\nName: " + this.name + "\nSalary: " +
                 this.salary + "\nContact No: " + this.phone + "\nEmail-id: " + this.email_id;
     }
