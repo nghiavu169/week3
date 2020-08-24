@@ -18,18 +18,6 @@ public class Product implements Serializable {
         return id;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public String getBrand() {
-        return brand;
-    }
-
-    public float getPrice() {
-        return price;
-    }
-
     public void setName(String name) {
         this.name = name;
     }
