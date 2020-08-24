@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Case-Study/Case-Study.iml" filepath="$PROJECT_DIR$/Case-Study/Case-Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/CaseStudy/CaseStudy.iml" filepath="$PROJECT_DIR$/CaseStudy/CaseStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseStudy2/CaseStudy2.iml" filepath="$PROJECT_DIR$/CaseStudy2/CaseStudy2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory-Method/Factory-Method.iml" filepath="$PROJECT_DIR$/Factory-Method/Factory-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap-LinkedHashMap-TreeMap/HashMap-LinkedHashMap-TreeMap.iml" filepath="$PROJECT_DIR$/HashMap-LinkedHashMap-TreeMap/HashMap-LinkedHashMap-TreeMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap-vs-HashSet/HashMap-vs-HashSet.iml" filepath="$PROJECT_DIR$/HashMap-vs-HashSet/HashMap-vs-HashSet.iml" />

@@ -2,11 +2,12 @@ package Method;
 
 import Entities.Employee;
 import Entities.EmployeeManagement;
+import IO.IOSub;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Method1 {
+public class Method1 implements InterfaceMethod {
     int id;
     String name;
     float salary;
@@ -134,4 +135,11 @@ public class Method1 {
         EmployeeManagement.display(al);
     }
 
+    public void printToFile() {
+        IOSub io = new IOSub();
+        io.writeObjectToFile(al);
+        System.out.println("\nYou have chosen EXIT !! Saving Files and closing the program.");
+        sc.close();
+        System.exit(0);
+    }
 }
